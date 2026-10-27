@@ -1,52 +1,47 @@
 # Awesome-Developer-Tools
 
-# Awesome-Developer-Tools
+<p align="center">
+  <img src="./assets/banner.svg" alt="Awesome Developer Tools Banner" width="100%" />
+</p>
 
-**Top Developer Tools (Opensource) 🌟 Star if you like it! 🌟**
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Developer-Tools/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Developer-Tools?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Developer-Tools/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Developer-Tools?style=social" alt="GitHub forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Developer-Tools/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Developer-Tools?style=flat-square&color=blue" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Developer-Tools/commits/main"><img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Developer-Tools?style=flat-square&color=emerald" alt="Last Commit" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+<p align="center">
+  <strong>Curated Directory of World-Class Developer Tools, Enterprise SaaS Platforms & High-Star Open-Source Repositories</strong><br>
+  <em>Supercharging software engineering with API design, internal tool builders, low-code platforms, and AI pair-programming agents.</em>
+</p>
 
+---
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+## 📑 Table of Contents
 
-*Focused on API Development, Low-Code Platforms, Code Editors, API Documentation & AI Coding Agents*
+- [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [💼 SaaS & Hosted Platforms](#-saas--hosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
+- [⚖️ Disclaimer](#️-disclaimer)
 
-**Last updated: October 2026**
+---
 
+## 🌐 Sector Overview & Market Dynamics
 
+The global developer tools software ecosystem is projected at **$7.4 billion to $8.8 billion** in 2026 for core engineering toolchains (code editors, IDEs, API clients, testing suites, CI/CD pipelines), surging past **$250 billion+** when encompassing the broader enterprise application modernization and low-code development ecosystem.
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Developer Tools**. These tools enable developers to build, test, document, and ship software—from fully managed enterprise platforms with AI-powered coding agents to self-hosted editors, API clients, and low-code builders that give teams complete control over their development workflow.
+The market follows a **bimodal, moderately concentrated landscape**: foundational distribution anchors (source code repositories, cloud DevOps pipelines, and core IDEs) demonstrate winner-take-most dominance spearheaded by hyperscalers and tech giants like Microsoft, while specialized sub-verticals (API lifecycle testing, visual low-code/internal builders, and autonomous AI coding agents) stay intensely innovative, fragmented, and contested with thriving open-source alternatives.
 
+---
 
-
-**Examples** include Postman, GitHub Enterprise, GitLab, OutSystems, Mendix, Retool, Visual Studio Code, JetBrains, SwaggerHub, and Workday Extend (the category leaders in commercial space).
-
-
-
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, API development, low-code platforms, and open developer infrastructure—ideal for developers and organizations seeking transparent, vendor-independent tooling.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-
-
-## Sector Overview & Market Dynamics
-
-The developer tools sector is estimated at **$7.4 billion to $8.8 billion** in 2026 for core toolchains (editors, IDEs, API clients, DevOps pipelines), expanding to over **$250 billion+** when encompassing the broader enterprise application development and low-code ecosystem. The market displays a **bimodal, moderately concentrated landscape**: foundational distribution hubs (code hosting, operating platforms, and base IDEs) lean toward winner-take-most dominance held by tech giants like Microsoft, while specialized sub-verticals (API lifecycle tooling, internal tool builders, and AI-native coding agents) remain dynamic and competitive with rapid innovation and strong open-source counter-movements.
-
-
-
-## SaaS/Hosted Platforms
+## 💼 SaaS & Hosted Platforms
 
 | Platform | Category / Focus | Company Scale (Valuation / Revenue) | Pricing (Starting Paid Tier) | Free Tier / Trial Limits | Best For |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -61,126 +56,185 @@ The developer tools sector is estimated at **$7.4 billion to $8.8 billion** in 2
 | **[Retool](https://retool.com/)** | Internal Tools Builder | **$1.85B Valuation** *(Private tech unicorn; ARR ~$50M–$100M+)* | **$10 / builder / month** + $5 / user / month (Team plan, billed annually) | **Free forever**: Up to 5 total users, unlimited web/mobile apps, 500 workflow runs/mo, 5 GB storage, and 250 AI credits/mo | Developers building internal portals, database GUIs, and operational dashboards quickly |
 | **[JetBrains](https://www.jetbrains.com/)** | Specialized Professional IDEs | **~$710M Annual Revenue** *(Bootstrapped; estimated $3B–$5B valuation)* | **$8.90 / user / month** (Single language IDEs; All Products Pack at $28.90/user/mo billed annually) | **Free forever**: Community Editions (IntelliJ IDEA & PyCharm) are open-source and free without time limits; 30-day full-feature trial for paid commercial IDEs | Engineers needing language-specialized IDEs with deep semantic analysis, refactoring, and debugging |
 
-## Open-Source GitHub Projects
-
-
-
-- **[Hoppscotch](https://github.com/hoppscotch/hoppscotch)**
-
-  **Open-source API development ecosystem** (MIT) — **the most widely adopted open-source Postman alternative** with a web-based, offline-first interface. **Features**: REST, GraphQL, WebSocket, SSE, and MQTT support; collections, environments, and request history; team collaboration (self-hosted); and a polished UI comparable to Postman . **Tech stack**: Vue.js, TypeScript. **Deploy**: Self-hosted (Docker) or use the hosted web app. **Best for**: developers wanting a familiar Postman-like experience with full self-hosting and no account requirement.
-
-
-
-- **[Bruno](https://github.com/usebruno/bruno)**
-
-  **Open-source IDE for exploring and testing APIs** (MIT) — **the leading local-first, git-friendly API client** with growing adoption. **Features**: Collections stored as plain files on disk (git-versionable); support for REST, GraphQL, and gRPC; environments and variables; test scripts; and no cloud sync or account required. **Tech stack**: Electron, React. **Deploy**: Desktop application (Windows, macOS, Linux). **Best for**: developers wanting a fast, offline API client where collections live in the repository alongside code.
-
-
-
-- **[Resonance](https://github.com/letsfork/resonance)**
-
-  **Local-first, zero-account open-source API client** (license per repo) — **a lightweight Rust/Tauri alternative to Postman and Insomnia**. **Features**: REST, GraphQL (including subscriptions), gRPC (with server reflection), WebSocket, SSE, and MQTT in one client; **~15 MB bundle size**; secrets stored in OS keychain; OpenAPI and Postman import; mock server; and collection runner . **Tech stack**: Tauri, Rust. **Deploy**: Desktop application. **Best for**: developers wanting an ultra-lightweight, privacy-focused API client with multi-protocol support and no cloud dependency.
-
-
-
-- **[Windmill](https://github.com/windmill-labs/windmill)**
-
-  **Open-source developer platform to turn scripts into workflows and UIs** (AGPL-3.0 for core) — **a fast-growing alternative to Retool and Airplane**. **Features**: Scripts in Python, TypeScript, Go, Bash, SQL, and more; auto-generated UIs from scripts; workflows and schedules; approval flows; and a **workflow engine 13x faster than Airflow** according to the project . **Tech stack**: Rust, Svelte, PostgreSQL. **Deploy**: Self-hosted (Docker, Kubernetes) or Windmill Cloud. **Best for**: developers wanting to build internal tools and workflows from existing scripts without rewriting them as low-code apps.
-
-
-
-- **[Lowcoder](https://github.com/lowcoder-org/lowcoder)**
-
-  **Open-source low-code platform for internal and customer-facing apps** (AGPL-3.0) — **a direct Retool/Appsmith alternative** with a focus on external apps. **Features**: Visual UI builder with 120+ components; native connections to PostgreSQL, MongoDB, MySQL, Redis, Elasticsearch, REST API, and more; JavaScript support throughout; RBAC; self-hosting; and **native embedding in websites** (no iFrame) . **Tech stack**: TypeScript, React, Node.js. **Deploy**: Self-hosted (Docker) or Lowcoder Cloud (free community tier). **Best for**: developers wanting a full-featured Retool alternative that can build both internal and external applications.
-
-
-
-- **[Sourcey](https://github.com/sourcey/sourcey)**
-
-  **Open-source documentation platform for APIs** (AGPL-3.0) — **a self-hosted alternative to SwaggerHub and Redocly**. **Features**: OpenAPI 2.0–3.2 support with auto-generated code samples in 10 languages; **native MCP server documentation**; Doxygen and godoc support; Markdown guides; **llms.txt generation** for AI agents; static HTML output; and no account required . **Tech stack**: TypeScript, Vite. **Deploy**: Static HTML (deploy anywhere) or dev server. **Best for**: teams wanting complete ownership of their API documentation with modern features like MCP and llms.txt support.
-
-
-
-- **[Aider](https://github.com/Aider-AI/aider)**
-
-  **Terminal-based AI pair programming tool** (Apache 2.0) — **the most established open-source AI coding agent** with ~49,600 GitHub stars . **Features**: Maps your codebase and edits it using cloud or local LLMs; automatic Git commits after each change; works in any terminal environment with no IDE dependency; and supports multiple model providers . **Tech stack**: Python. **Deploy**: CLI (`pip install aider-chat`). **Best for**: terminal-focused developers wanting AI-assisted coding with transparent, Git-versioned changes and no vendor lock-in.
-
-
-
-- **[Cline](https://github.com/cline/cline)**
-
-  **Open-source AI coding agent for VS Code** (Apache 2.0) — **the most widely installed VS Code AI agent** with 5.37 million marketplace installs . **Features**: Conservative default with confirmation required before every action; fully auditable source code; support for regulated cloud environments like AWS Bedrock; and broad provider support including Azure and GCP Vertex . **Tech stack**: TypeScript. **Deploy**: VS Code extension. **Best for**: teams with high compliance requirements wanting an AI coding agent with human-in-the-loop approval and full source visibility.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Restfox** — Offline-first web HTTP client (MIT). Lightweight Postman alternative for browser and desktop. **Best for**: developers wanting a simple, offline API client without installation .
-
-- **HTTPie** — Human-friendly HTTP client (BSD-3-Clause). CLI and desktop app for testing APIs. **Best for**: developers wanting a readable, scriptable HTTP client for the terminal or desktop .
-
-- **Yaade** — Self-hosted collaborative API development environment (Apache 2.0). **Best for**: teams wanting a shared, self-hosted API workspace .
-
-- **API Dash** — Beautiful cross-platform API client built with Flutter (Apache 2.0). **Best for**: developers wanting an AI-powered, lightweight Postman alternative .
-
-- **Goose** — Extensible open-source AI agent in Rust (Apache 2.0) with desktop, CLI, and API. ~55,400 stars. **Best for**: developers wanting a model-agnostic AI agent with MCP extensibility .
-
-- **Tabby** — Self-hosted, on-premises AI coding assistant (Apache 2.0). Open-source alternative to GitHub Copilot. **Best for**: organizations wanting a private AI coding assistant without cloud dependencies .
-
-
-
-**Frameworks for building custom systems**: Combine **Hoppscotch** or **Bruno** for API development with **Sourcey** for documentation, **Windmill** or **Lowcoder** for internal tools and low-code apps, and **Aider** or **Cline** for AI-assisted coding—creating a comprehensive developer tooling stack matched to each team's workflow and compliance requirements.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, license (for open-source), and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Developer tools handling source code and API data must comply with data protection regulations (GDPR, CCPA, etc.) and implement appropriate access controls for proprietary code.
-
-- **The "SaaS platform vs. self-hosted tool vs. AI agent" distinction matters.** **Postman, GitHub Enterprise, GitLab, OutSystems, Mendix, Retool, SwaggerHub, and Workday Extend** are commercial platforms. **Hoppscotch, Bruno, Resonance, and Sourcey** are self-hosted API tools. **Windmill and Lowcoder** are low-code platforms. **Aider, Cline, Goose, and Tabby** are AI coding agents. **Choose based on whether you need a managed service, a self-hosted tool, or an AI assistant.**
-
-- **Hoppscotch is the most mature open-source Postman alternative** with a polished web UI and broad protocol support . **Bruno and Resonance** take a different approach—local-first, git-friendly, and lightweight—which appeals to developers who want collections versioned alongside code.
-
-- **Sourcey is the strongest open-source SwaggerHub alternative** with native MCP documentation, llms.txt generation, and static HTML output . **The trade-off**: it is newer and has a smaller community than SwaggerHub or Redocly.
-
-- **Windmill and Lowcoder are the leading open-source Retool alternatives.** Windmill excels at turning existing scripts into workflows and UIs with a very fast engine . Lowcoder offers a full visual builder with external app support and native website embedding . **Choose Windmill for script-first workflows; choose Lowcoder for visual app building.**
-
-- **AI coding agents (Aider, Cline, Goose) are evolving rapidly.** **Aider** is the most established with transparent Git commits; **Cline** leads in VS Code installs with conservative approval workflows; **Goose** is a fast-growing Rust-based agent with MCP extensibility . **None are mature replacements for human developers**—treat them as accelerators with mandatory verification.
-
-- **Pricing transparency varies.** VS Code is free; GitLab publishes tiers; JetBrains publishes subscription pricing. Postman, OutSystems, Mendix, Retool (Enterprise), SwaggerHub (Enterprise), and Workday Extend require sales contact for full quotes. **Validate with direct vendor conversations against your team size and usage needs.**
-
-- Self-hosted open-source solutions require proper server setup, backup configuration, and ongoing maintenance. **Source code and API credentials are sensitive**—ensure your hosting meets your organization's security requirements before deploying.
-
-
+---
+
+## 🔓 Open-Source GitHub Projects
+
+Curated list of leading open-source developer tools, sorted in **descending order by GitHub star count**.
+
+- **[Supabase](https://github.com/supabase/supabase)** [![Stars](https://img.shields.io/github/stars/supabase/supabase?style=social&color=white)](https://github.com/supabase/supabase/stargazers)
+  - **The open-source Firebase alternative** (Apache 2.0) — Complete Postgres development platform providing instant auto-generated REST/GraphQL APIs, real-time subscriptions, authentication, storage, and serverless Edge Functions.
+  - **Features**: Native PostgreSQL at core, instantaneous schema migration tools, database web studio, Row Level Security (RLS), and vector search support for AI embeddings.
+  - **Tech stack**: TypeScript, Elixir, Go, PostgreSQL.
+  - **Deploy**: Self-hosted (Docker, Kubernetes) or Supabase Cloud.
+  - **Best for**: Developers wanting a scalable, enterprise backend-as-a-service with complete database freedom and zero vendor lock-in.
+
+- **[Hoppscotch](https://github.com/hoppscotch/hoppscotch)** [![Stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social&color=white)](https://github.com/hoppscotch/hoppscotch/stargazers)
+  - **Open-source API development ecosystem** (MIT) — The premier web-based, offline-first alternative to Postman.
+  - **Features**: Full support for REST, GraphQL, WebSocket, SSE, Socket.IO, and MQTT; team collaboration spaces; environment variables; and automated test scripts.
+  - **Tech stack**: Vue.js, TypeScript.
+  - **Deploy**: Self-hosted via Docker or instant hosted web application.
+  - **Best for**: Teams seeking a lightweight, clean, fast API exploration environment with zero mandatory login.
+
+- **[Cline](https://github.com/cline/cline)** [![Stars](https://img.shields.io/github/stars/cline/cline?style=social&color=white)](https://github.com/cline/cline/stargazers)
+  - **Autonomous open-source AI coding agent** (Apache 2.0) — High-velocity AI development assistant directly integrated into VS Code with millions of installs.
+  - **Features**: Human-in-the-loop permission approvals for file modifications and terminal commands, Model Context Protocol (MCP) tool support, multi-file code editing, and connectivity with custom models (Anthropic, OpenAI, AWS Bedrock, GCP Vertex AI, Ollama).
+  - **Tech stack**: TypeScript.
+  - **Deploy**: VS Code Extension.
+  - **Best for**: Engineers wanting a deeply integrated AI pair programmer with strict execution guardrails and complete auditable source transparency.
+
+- **[NocoDB](https://github.com/nocodb/nocodb)** [![Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)
+  - **Open-source smart spreadsheet & low-code database** (AGPL-3.0) — The leading self-hosted Airtable alternative that turns any relational database into an interactive smart database spreadsheet.
+  - **Features**: Connects directly to PostgreSQL, MySQL, SQL Server, and SQLite; generates collaborative Grid, Kanban, Gallery, and Form views; provides automated REST/GraphQL APIs and webhook integrations.
+  - **Tech stack**: Vue.js, Node.js, TypeScript.
+  - **Deploy**: Docker, NPM, Kubernetes.
+  - **Best for**: Teams seeking a user-friendly low-code data browser and administrative panel directly connected to production relational databases.
+
+- **[Aider](https://github.com/Aider-AI/aider)** [![Stars](https://img.shields.io/github/stars/Aider-AI/aider?style=social&color=white)](https://github.com/Aider-AI/aider/stargazers)
+  - **AI pair programming in your terminal** (Apache 2.0) — The benchmark terminal-based autonomous coding tool.
+  - **Features**: Automatically maps repository code architecture, edits complex multi-file codebases, stages and writes clean atomic Git commit messages for every change, and supports frontier LLMs alongside local models.
+  - **Tech stack**: Python.
+  - **Deploy**: CLI (`pip install aider-chat`).
+  - **Best for**: Terminal-focused developers seeking fast, transparent AI assistance with rigorous version control hygiene.
+
+- **[Bruno](https://github.com/usebruno/bruno)** [![Stars](https://img.shields.io/github/stars/usebruno/bruno?style=social&color=white)](https://github.com/usebruno/bruno/stargazers)
+  - **Local-first, Git-friendly open-source API client** (MIT) — A fast, modern Postman alternative that stores collections as plain text files (`.bru`) directly in your code repository.
+  - **Features**: Plain file-based storage enabling seamless Git collaboration, REST and GraphQL support, local test scripting, and zero cloud sync or external servers.
+  - **Tech stack**: Electron, React.
+  - **Deploy**: Native desktop application (macOS, Windows, Linux) and CLI runner.
+  - **Best for**: Teams desiring developer-friendly API collections versioned right beside application source code.
+
+- **[ToolJet](https://github.com/ToolJet/ToolJet)** [![Stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=social&color=white)](https://github.com/ToolJet/ToolJet/stargazers)
+  - **Open-source low-code internal tool builder** (AGPL-3.0) — Enterprise-grade alternative to Retool for assembling internal applications, admin consoles, and workflows.
+  - **Features**: Drag-and-drop canvas with 50+ pre-built UI components, built-in database (ToolJet DB), granular RBAC, and 50+ data connectors (PostgreSQL, MongoDB, Stripe, Google Sheets, Slack).
+  - **Tech stack**: React, NestJS, TypeScript.
+  - **Deploy**: Docker, Helm, AWS EC2, Kubernetes.
+  - **Best for**: Engineering teams looking to replace custom admin panel development with a self-hosted low-code portal.
+
+- **[Appsmith](https://github.com/appsmithorg/appsmith)** [![Stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers)
+  - **Low-code application platform for developer productivity** (Apache 2.0) — Robust platform to rapidly build administrative panels, dashboards, and internal operational portals.
+  - **Features**: Visual drag-and-drop designer, JavaScript anywhere for data transformation, real-time collaborative editing, audit logs, and SSO integration.
+  - **Tech stack**: React, Java, TypeScript.
+  - **Deploy**: Docker, Helm, Kubernetes.
+  - **Best for**: Developers wanting a mature, reliable internal tools platform with native JavaScript flexibility.
+
+- **[HTTPie CLI](https://github.com/httpie/cli)** [![Stars](https://img.shields.io/github/stars/httpie/cli?style=social&color=white)](https://github.com/httpie/cli/stargazers)
+  - **Human-friendly CLI HTTP client for the modern web** (BSD-3-Clause) — Intuitive command-line HTTP utility designed for seamless API testing and debugging.
+  - **Features**: Expressive syntax, built-in JSON support with syntax highlighting, persistent sessions, formatted terminal output, and file download resuming.
+  - **Tech stack**: Python.
+  - **Deploy**: Package managers (`brew`, `apt`, `pacman`, `pip`).
+  - **Best for**: Terminal enthusiasts who want a user-friendly, human-readable replacement for curl when interacting with REST APIs.
+
+- **[Directus](https://github.com/directus/directus)** [![Stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers)
+  - **Open Data Platform & Backend-as-a-Service** (BSL-1.1 / GPL-3.0) — Instant REST & GraphQL API generation and intuitive admin data management layered over SQL databases.
+  - **Features**: Non-destructive SQL reflection, real-time WebSocket events, built-in visual workflow automations, file storage asset management, and modular extensibility.
+  - **Tech stack**: Vue.js, Node.js, TypeScript.
+  - **Deploy**: Docker, NPM, Cloud.
+  - **Best for**: Developers creating data-rich web applications, headless CMS architectures, and custom database backends.
+
+- **[Tabby](https://github.com/TabbyML/tabby)** [![Stars](https://img.shields.io/github/stars/TabbyML/tabby?style=social&color=white)](https://github.com/TabbyML/tabby/stargazers)
+  - **Self-hosted AI coding assistant** (Apache 2.0) — Open-source, private alternative to GitHub Copilot.
+  - **Features**: On-premises inference with consumer GPUs, multi-language code completion and repository context retrieval, IDE extensions for VS Code and JetBrains, and strict privacy guarantees.
+  - **Tech stack**: Rust, TypeScript.
+  - **Deploy**: Docker, Kubernetes.
+  - **Best for**: Security-conscious organizations that require fully air-gapped, self-hosted AI code autocompletion.
+
+- **[Swagger UI](https://github.com/swagger-api/swagger-ui)** [![Stars](https://img.shields.io/github/stars/swagger-api/swagger-ui?style=social&color=white)](https://github.com/swagger-api/swagger-ui/stargazers)
+  - **Interactive API documentation from OpenAPI specifications** (Apache 2.0) — The web standard for visualizing and testing RESTful APIs defined in OpenAPI (OAS).
+  - **Features**: Interactive "Try It Out" API sandboxes, automatic JSON/YAML schema parsing, client SDK code snippet rendering, and universal framework support.
+  - **Tech stack**: React, JavaScript.
+  - **Deploy**: CDN, Docker, npm package.
+  - **Best for**: Platform and backend developers building developer-facing interactive API documentation.
+
+- **[Redoc](https://github.com/redocly/redoc)** [![Stars](https://img.shields.io/github/stars/redocly/redoc?style=social&color=white)](https://github.com/redocly/redoc/stargazers)
+  - **Open-source OpenAPI/Swagger reference documentation generator** (MIT) — Elegant, responsive three-panel API documentation.
+  - **Features**: Instant rendering of OpenAPI 3.0/3.1 specs, code samples in multiple languages, responsive search, markdown descriptions, and clean static HTML compilation.
+  - **Tech stack**: React, TypeScript.
+  - **Deploy**: Web component, npm, Docker.
+  - **Best for**: Teams seeking beautiful, enterprise-grade, read-only developer portal documentation.
+
+- **[Windmill](https://github.com/windmill-labs/windmill)** [![Stars](https://img.shields.io/github/stars/windmill-labs/windmill?style=social&color=white)](https://github.com/windmill-labs/windmill/stargazers)
+  - **Developer platform to turn scripts into workflows and UIs** (AGPL-3.0) — Ultra-fast alternative to Retool and Airflow.
+  - **Features**: Write scripts in Python, TypeScript, Go, Bash, or SQL; auto-generate UIs; workflow DAG orchestrations; schedules; and horizontal worker autoscaling.
+  - **Tech stack**: Rust, Svelte, PostgreSQL.
+  - **Deploy**: Docker, Kubernetes, or Windmill Cloud.
+  - **Best for**: DevOps, platform teams, and backend engineers seeking high-performance workflow automations without bloated boilerplate.
+
+- **[Scalar](https://github.com/scalar/scalar)** [![Stars](https://img.shields.io/github/stars/scalar/scalar?style=social&color=white)](https://github.com/scalar/scalar/stargazers)
+  - **Modern interactive API documentation & client** (MIT) — Next-generation developer documentation built specifically for OpenAPI/Swagger.
+  - **Features**: Integrated API client to test requests immediately, modern aesthetic UI, themeable design system, offline capability, and instant static site generation.
+  - **Tech stack**: Vue.js, TypeScript.
+  - **Deploy**: CDN, npm package, framework integrations (FastAPI, Express, Elysia, NestJS).
+  - **Best for**: Modern development teams wanting interactive, lightning-fast API reference documentation.
+
+- **[Lowcoder](https://github.com/lowcoder-org/lowcoder)** [![Stars](https://img.shields.io/github/stars/lowcoder-org/lowcoder?style=social&color=white)](https://github.com/lowcoder-org/lowcoder/stargazers)
+  - **Open-source low-code platform for internal and client-facing apps** (AGPL-3.0) — Direct visual alternative to Retool and Appsmith.
+  - **Features**: 120+ pre-built UI components, native embedding into host applications without iframes, extensive database/API connector collection, and granular access permissions.
+  - **Tech stack**: TypeScript, React, Node.js.
+  - **Deploy**: Self-hosted (Docker) or Lowcoder Cloud.
+  - **Best for**: Developers building customer-facing application portals and embedding internal tools directly into existing web apps.
+
+- **[Sourcey](https://github.com/sourcey/sourcey)** [![Stars](https://img.shields.io/github/stars/sourcey/sourcey?style=social&color=white)](https://github.com/sourcey/sourcey/stargazers)
+  - **Modern documentation engine for APIs and AI agents** (AGPL-3.0) — Self-hosted documentation suite with deep support for modern agentic patterns.
+  - **Features**: OpenAPI 2.0–3.2 support, automatic code samples in 10 languages, native Model Context Protocol (MCP) server documentation, and `llms.txt` generation for AI systems.
+  - **Tech stack**: TypeScript, Vite.
+  - **Deploy**: Static HTML deployment (Vercel, Cloudflare Pages, S3).
+  - **Best for**: API architects needing cutting-edge developer documentation tailored for human engineers and AI coding agents.
+
+- **[Resonance](https://github.com/letsfork/resonance)** [![Stars](https://img.shields.io/github/stars/letsfork/resonance?style=social&color=white)](https://github.com/letsfork/resonance/stargazers)
+  - **Local-first, zero-account open-source API client** (MIT) — Ultra-lightweight desktop alternative to Postman built with Tauri and Rust.
+  - **Features**: ~15 MB memory-efficient binary, multi-protocol execution (REST, GraphQL, gRPC, WebSocket, SSE, MQTT), OS keychain secret storage, mock server, and collection runner.
+  - **Tech stack**: Tauri, Rust, TypeScript.
+  - **Deploy**: Desktop application (macOS, Windows, Linux).
+  - **Best for**: Developers wanting a minimal, high-speed, privacy-first API workstation with zero account dependencies.
 
 ---
 
+## 🤝 How to Contribute
 
+Contributions are warmly welcome! Help make this curated repository even more useful for engineers around the world.
 
-**Made for developers, platform teams, and organizations building transparent developer tooling solutions.**
+1. 🍴 **Fork the repository** on GitHub.
+2. 🌿 **Create a new branch** (`git checkout -b feature/awesome-tool`).
+3. 📝 **Add your entry** in `README.md` following the existing format:
+   - Tool Name, Link, GitHub Star Badge (if open-source), License, Description, Tech Stack, and Best-For recommendation.
+4. 🧪 **Check link formatting & badges** to ensure everything renders smoothly.
+5. 🚀 **Submit a Pull Request** with a concise summary of the addition!
 
-Let's make Developer Tools more open, data-driven, and developer-friendly.
+---
+
+## 💖 Support & Sponsorship
+
+If this curated list saved you time, discovered your next favorite developer tool, or helped optimize your engineering stack, please consider showing your support:
+
+- 🌟 **Star this repository** to help other developers find it.
+- 🍴 **Fork and contribute** new open-source projects or SaaS platforms.
+- 📢 **Share it** on X / Twitter, LinkedIn, Reddit, or your engineering team's Slack/Discord.
+- ☕ **Sponsor or buy a coffee**: Support ongoing curation and maintenance via the **[GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)**!
+
+Thank you to all community contributors, builders, and stargazers! 🙌
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Developer-Tools&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Developer-Tools&type=date&legend=top-left)
+
+---
+
+## ⚖️ Disclaimer
+
+- This is a **community-curated index** for informational purposes — not an endorsement of any particular tool or company.
+- Developer tools handling source code and API data must comply with data protection regulations (GDPR, CCPA, SOC 2, HIPAA) and enforce proper access controls for proprietary codebases.
+- **SaaS vs. Self-Hosted vs. AI Agents**:
+  - **Postman, GitHub Enterprise, GitLab, OutSystems, Mendix, Retool, SwaggerHub, and Workday Extend** are enterprise managed SaaS platforms.
+  - **Supabase, Hoppscotch, Bruno, NocoDB, ToolJet, Appsmith, Windmill, Lowcoder, Scalar, Swagger UI, Redoc, Sourcey, and Resonance** provide full self-hosting freedom.
+  - **Cline, Aider, and Tabby** are specialized AI coding assistants. Choose according to your team's compliance, deployment model, and governance policies.
+- Pricing, tiers, and limits change frequently. Verify current terms directly with vendor pricing pages before enterprise procurement.
+
+---
+
+<p align="center">
+  <strong>Crafted with ❤️ for developers, platform engineers, and open-source architects worldwide.</strong><br>
+  Let's keep developer tooling transparent, open, and community-driven.
+</p>
