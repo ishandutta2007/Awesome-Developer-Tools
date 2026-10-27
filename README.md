@@ -32,79 +32,34 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
+
+
+
+## Sector Overview & Market Dynamics
+
+The developer tools sector is estimated at **$7.4 billion to $8.8 billion** in 2026 for core toolchains (editors, IDEs, API clients, DevOps pipelines), expanding to over **$250 billion+** when encompassing the broader enterprise application development and low-code ecosystem. The market displays a **bimodal, moderately concentrated landscape**: foundational distribution hubs (code hosting, operating platforms, and base IDEs) lean toward winner-take-most dominance held by tech giants like Microsoft, while specialized sub-verticals (API lifecycle tooling, internal tool builders, and AI-native coding agents) remain dynamic and competitive with rapid innovation and strong open-source counter-movements.
 
 
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Postman](https://www.postman.com/)**
-
-  **API development and testing platform** with collections, environments, mock servers, and monitoring. **Pricing**: Free tier available; paid plans per user. **Free tier**: Yes, with limited collection runs and mock calls. **Best for**: teams wanting a polished, collaborative API client with broad protocol support and cloud sync.
-
-
-
-- **[GitHub Enterprise](https://github.com/enterprise)**
-
-  **Enterprise software development platform** with repository hosting, CI/CD (Actions), code review, and security scanning. **Pricing**: Per-user licensing; quote-based for enterprise. **Free tier**: None for Enterprise; GitHub Free available for individuals. **Best for**: organizations wanting an integrated DevOps platform with the largest open-source ecosystem.
-
-
-
-- **[GitLab](https://about.gitlab.com/)**
-
-  **DevOps platform** with source control, CI/CD, security, and project management in one application. **Pricing**: Free tier available; **Premium** at $29/user/month; **Ultimate** at $99/user/month (annual billing). **Free tier**: Yes, with 5 GB storage and 400 CI/CD minutes. **Best for**: teams wanting a single DevOps application with strong built-in CI/CD and security scanning.
-
-
-
-- **[OutSystems Developer Studio](https://www.outsystems.com/)**
-
-  **Enterprise low-code platform** for building web and mobile apps. **Pricing**: Quote-only; per-user and per-environment models. **Free tier**: Free personal environment with limitations. **Best for**: enterprises wanting a governed low-code platform for large-scale application portfolios.
-
-
-
-- **[Mendix Studio Pro](https://www.mendix.com/)**
-
-  **Low-code application development platform** with visual modeling and deployment options. **Pricing**: Free tier for individuals; paid plans per user and per app. **Free tier**: Yes, for personal use with limited resources. **Best for**: teams wanting collaborative low-code development with strong enterprise governance features.
-
-
-
-- **[Retool](https://retool.com/)**
-
-  **Low-code platform for building internal tools** with pre-built components and data source connectors. **Pricing**: Free tier available; **Team** at $10/user/month; **Business** at $50/user/month; **Enterprise** quote-only. **Free tier**: Yes, with limited users and apps. **Best for**: teams wanting to rapidly build internal admin panels and dashboards on top of existing data sources.
-
-
-
-- **[Visual Studio Code](https://code.visualstudio.com/)**
-
-  **Free, open-source code editor** with extensive extension ecosystem and AI features. **Pricing**: Free. **Free tier**: Full editor is free. **Best for**: developers wanting a lightweight, extensible editor with broad language support and integrated AI assistance.
-
-
-
-- **[JetBrains](https://www.jetbrains.com/)**
-
-  **Integrated development environments** (IntelliJ IDEA, PyCharm, WebStorm, etc.) with deep language intelligence. **Pricing**: Individual subscriptions from ~$8–$25/month depending on IDE; **All Products Pack** at $28.90/month (annual). **Free tier**: Free community editions for some IDEs (IntelliJ IDEA Community, PyCharm Community). **Best for**: developers wanting powerful, language-specific IDEs with advanced refactoring and debugging.
-
-
-
-- **[SwaggerHub](https://swagger.io/tools/swaggerhub/)**
-
-  **API design and documentation platform** built on OpenAPI Specification. **Pricing**: Free tier available; paid plans per user. **Free tier**: Yes, with limited API definitions and projects. **Best for**: teams wanting collaborative API design with hosted documentation and mock servers.
-
-
-
-- **[Workday Extend](https://www.workday.com/)**
-
-  **Low-code application development platform** for extending Workday. **Pricing**: Quote-only; bundled with Workday suite. **Free tier**: None. **Best for**: Workday customers wanting to build custom apps and workflows on the Workday platform.
-
-
+| Platform | Category / Focus | Company Scale (Valuation / Revenue) | Pricing (Starting Paid Tier) | Free Tier / Trial Limits | Best For |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **[Visual Studio Code](https://code.visualstudio.com/)** | Code Editor & Ecosystem | **~$3.90T+ Market Cap** *(Parent: Microsoft; FY25 Rev: $245B+)* | **$0 / month** (Commercial use 100% free; optional Visual Studio Pro IDE at $45/mo or $1,199/yr) | **Free forever**: Full desktop code editor, unlimited local extensions, and commercial usage with no seat cap | Developers seeking an ultra-extensible, lightweight code editor with ecosystem support |
+| **[GitHub Enterprise](https://github.com/enterprise)** | DevOps & Enterprise Repo Hosting | **~$3.90T+ Market Cap** *(Parent: Microsoft; GitHub ARR >$2B)* | **$21 / user / month** (billed annually at $252/user/yr) | **30-day free trial**: Up to 50 user seats, including Cloud, GHES, and evaluation security features | Organizations wanting end-to-end DevOps integrated with the premier open-source ecosystem |
+| **[Mendix Studio Pro](https://www.mendix.com/)** | Enterprise Low-Code Platform | **~$205B Market Cap** *(Parent: Siemens AG; Acquired for $680M)* | **$50 / user / month** (Basic tier; Standard single-app at ~$900/mo) | **Free forever**: 1 personal cloud environment, 0.5 GiB database, 1 GiB storage, 0.5 vCPU; sleeps after 1h inactivity | Teams building collaborative low-code web and mobile solutions with industrial-grade governance |
+| **[Workday Extend](https://www.workday.com/)** | Enterprise Low-Code Extensions | **~$54B Market Cap** *(FY25 Revenue: $8.45B)* | **~$30,000 / year** (Starting annual contract add-on for Extend Essentials) | **No self-serve free tier or trial**: Sandbox access is provisioned strictly via contracted enterprise packages or the Workday Build partner program | Workday customers building custom apps, approval workflows, and data extensions on core Workday data |
+| **[GitLab](https://about.gitlab.com/)** | Complete DevOps Platform | **~$9.3B Market Cap** *(FY25 Revenue: $759.2M)* | **$29 / user / month** (Premium plan, annual billing) | **Free forever**: Up to 5 users per namespace, 5 GB storage, 10 GB transfer/month, and 400 CI/CD compute minutes/month | Teams wanting an integrated DevOps platform with native CI/CD, compliance, and security |
+| **[OutSystems Developer Studio](https://www.outsystems.com/)** | High-Performance Low-Code | **$4.3B Valuation** *(2022 funding; ~$300M+ ARR)* | **~$36,300 / year** (Entry-level enterprise subscription, custom quoted) | **Free forever**: 1 shared personal cloud environment, 1–2 GB database storage, non-production single environment, no SLA | Enterprises seeking governed, full-stack application development for complex portfolio systems |
+| **[Postman](https://www.postman.com/)** | API Lifecycle & Collaboration | **$5.6B Valuation** *(ARR: ~$313M+)* | **$19 / user / month** (Team tier, billed annually; or $9/mo Solo tier) | **Free forever**: 1 user seat, unlimited collection runs, unlimited mock servers, up to 10,000 Postman API calls/mo, and 5 integrations | Teams and solo developers needing an industry-standard API client and testing platform |
+| **[SwaggerHub](https://swagger.io/tools/swaggerhub/)** | API Design & Documentation | **~$3.0B Valuation** *(SmartBear; Revenue: ~$400M–$500M)* | **$19 / user / month** (Designer/Pro tier, billed annually) | **Free forever**: 1 user seat, limited to public APIs (or up to 2 private API definitions), with read-only enforcement on overages | Teams wanting centralized OpenAPI standard compliance, design governance, and documentation |
+| **[Retool](https://retool.com/)** | Internal Tools Builder | **$1.85B Valuation** *(Private tech unicorn; ARR ~$50M–$100M+)* | **$10 / builder / month** + $5 / user / month (Team plan, billed annually) | **Free forever**: Up to 5 total users, unlimited web/mobile apps, 500 workflow runs/mo, 5 GB storage, and 250 AI credits/mo | Developers building internal portals, database GUIs, and operational dashboards quickly |
+| **[JetBrains](https://www.jetbrains.com/)** | Specialized Professional IDEs | **~$710M Annual Revenue** *(Bootstrapped; estimated $3B–$5B valuation)* | **$8.90 / user / month** (Single language IDEs; All Products Pack at $28.90/user/mo billed annually) | **Free forever**: Community Editions (IntelliJ IDEA & PyCharm) are open-source and free without time limits; 30-day full-feature trial for paid commercial IDEs | Engineers needing language-specialized IDEs with deep semantic analysis, refactoring, and debugging |
 
 ## Open-Source GitHub Projects
 
