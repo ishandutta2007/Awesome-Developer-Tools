@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Developer-Tools/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Developer-Tools?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Developer-Tools/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Developer-Tools?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Developer-Tools/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Developer-Tools?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Developer-Tools/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Developer-Tools?style=flat-square&color=blue" alt="License" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Developer-Tools/commits/main"><img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Developer-Tools?style=flat-square&color=emerald" alt="Last Commit" /></a>
@@ -60,7 +60,7 @@ The market follows a **bimodal, moderately concentrated landscape**: foundationa
 
 ## 🔓 Open-Source GitHub Projects
 
-Curated list of leading open-source developer tools, sorted in **descending order by GitHub star count**.
+Curated list of leading open-source developer tools, sorted in **descending order by GitHub Stars_Count**.
 
 - **[Supabase](https://github.com/supabase/supabase)** [![Stars](https://img.shields.io/github/stars/supabase/supabase?style=social&color=white)](https://github.com/supabase/supabase/stargazers)
   - **The open-source Firebase alternative** (Apache 2.0) — Complete Postgres development platform providing instant auto-generated REST/GraphQL APIs, real-time subscriptions, authentication, storage, and serverless Edge Functions.
@@ -197,7 +197,7 @@ Contributions are warmly welcome! Help make this curated repository even more us
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a new branch** (`git checkout -b feature/awesome-tool`).
 3. 📝 **Add your entry** in `README.md` following the existing format:
-   - Tool Name, Link, GitHub Star Badge (if open-source), License, Description, Tech Stack, and Best-For recommendation.
+   - Tool Name, Link, GitHub Stars_Badge (if open-source), License, Description, Tech Stack, and Best-For recommendation.
 4. 🧪 **Check link formatting & badges** to ensure everything renders smoothly.
 5. 🚀 **Submit a Pull Request** with a concise summary of the addition!
 
